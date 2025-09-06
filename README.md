@@ -14,4 +14,4 @@ Here I share a **p5 sketch** I did in 2023, which illustrates the process that d
 **Becoming City**: 
 https://becoming-city.vercel.app/
 
-![alt text](image.png)
+![RandomSeed 8](img/01-01.png)
