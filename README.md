@@ -13,3 +13,5 @@ The ambition to model the infinitely complicated city in not new. But still many
 Here I share a **p5 sketch** I did in 2023, which illustrates the process that different classes (Lords, Farmers, Merchants) would value location in an environment in different ways, and a pattern of settlement grows based on their choices of location, and their choices impact the later comers' choices: 
 **Becoming City**: 
 https://becoming-city.vercel.app/
+
+![alt text](image.png)
