@@ -1,5 +1,17 @@
 # ICM Blog 2025 Richard_Qian_Li
 
+## Week 2
+
+I tested some ml5 **bodyPose** library. **"MoveNet"** has limited nodes, but works for simple purposes. And this would be an early **interactive attempt** of mine.
+HandPose library prompts some error to my browser, which I could not resolve.
+
+<img width="1000" height="1000" alt="myCanvas (2)" src="https://github.com/user-attachments/assets/80e94d26-0ef2-432f-8f59-7b2b4b6cc25c" />
+
+I tried to figure out the order of the **p5 transformation** matrices, whose layering was confusing for me for a while. I think I have a bit better grasp on it.
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/4059bf28-8ccd-4317-8c50-a948de25ad54" />
+
+
+
 ## Week 1
 
 I was writing around a topic that the form of the city traditionally and in a healthy way rises from the accumulative choices made by individuals in their very specific circumstances.
